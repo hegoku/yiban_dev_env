@@ -1,2 +1,2 @@
 #! /bin/bash
-docker run -itd -p 80:80 --name web -v ~/web:/var/www/html yiban
+docker run -itd -p 80:80 --name web -v ~/web:/var/www/html hegoku/yiban
